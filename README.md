@@ -16,11 +16,11 @@ Each new note is then rendered as a separate, distinct note component on the scr
 
 Each individual note component includes a button to trigger its deletion.
 
-![Note taking web app](image/image-1.png)
+![Note taking web app](public/image/image-1.png)
 
 Upon activation, a callback function is used to communicate the unique identifier (ID) of the note back to the main application.
 
-![Note taking web app](image/image-2.png) 
+![Note taking web app](public/image/image-2.png) 
 The application then filters its list of notes, removing the item that matches the provided ID, and re-renders the remaining notes.
 
 
