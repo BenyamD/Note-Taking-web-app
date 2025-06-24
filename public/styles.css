@@ -45,10 +45,13 @@ footer p {
   float: left;
 }
 .note h1 {
-  font-size: 1.1em;
-  margin-bottom: 6px;
+  font-weight: 100;
+  color: rgb(11, 11, 12);
+  font-size: 1.3em;
+  margin-bottom: 10px;
 }
 .note p {
+ 
   font-size: 1.1em;
   margin-bottom: 10px;
   white-space: pre-wrap;
